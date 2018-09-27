@@ -2,7 +2,7 @@
 
    "Resources":{
 
-      "grumpyritch-testbucket1":{
+      "grumpyritch-testbucket-ritch":{
 
          "Type":"AWS::S3::Bucket"
 
